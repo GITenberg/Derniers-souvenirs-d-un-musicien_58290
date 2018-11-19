@@ -1,0 +1,27 @@
+_repo: Derniers-souvenirs-d-un-musicien_58290
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Adam, Adolphe
+    aliases:
+    - Adam, Adolph
+    - Adam, A. (Adolphe)
+    - Adam, Adolphe Charles
+    birthdate: 1803
+    deathdate: 1856
+    gutenberg_agent_id: '40268'
+    url: http://www.gutenberg.org/2009/agents/40268
+    wikipedia: http://en.wikipedia.org/wiki/Adolphe_Adam
+description: ''
+gutenberg_issued: '2018-11-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58290'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Derniers souvenirs d'un musicien
+url: http://www.gutenberg.org/ebooks/58290
